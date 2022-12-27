@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication.Models;
-
+using WebApplication.Models.ViewModels;
 namespace WebApplication.Controllers
 {
     public class HomeController : Controller
@@ -17,8 +16,8 @@ namespace WebApplication.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewData["Message"] = "Web MVC App from C# Course.";
+            ViewData["aluno"] = "Davi Martins";
             return View();
         }
 
