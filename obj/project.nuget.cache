@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UJqgjOge4H2PAKSORyufZ3hEhS9dTQSsFdrBLZ0QqfK/zp0QVX0MqV0DKGExZZ4QYhX67s4+Pv4jGZLgdQnEGA==",
+  "dgSpecHash": "cJYp3Ndad547oZUyszJOl4K8TVDPP5Uay1r5/vSovp8Abok3JMJlDLdlDIL9gnOT/yVVNcAHDSPw2FUQB/kqgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\davi_\\OneDrive\\Área de Trabalho\\Projeto\\WebApplication\\WebApplication.csproj",
   "expectedPackageFiles": [
@@ -116,9 +116,12 @@
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\2.1.10\\microsoft.visualstudio.web.codegeneration.utils.2.1.10.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\2.1.10\\microsoft.visualstudio.web.codegenerators.mvc.2.1.10.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\mysqlconnector\\0.42.1\\mysqlconnector.0.42.1.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\2.1.1\\pomelo.entityframeworkcore.mysql.2.1.1.nupkg.sha512",
+    "C:\\Users\\davi_\\.nuget\\packages\\pomelo.jsonobject\\1.1.1\\pomelo.jsonobject.1.1.1.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\davi_\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",

@@ -171,4 +171,11 @@ C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net47
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\System.Data.SqlClient.dll
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\System.Interactive.Async.dll
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\MySqlConnector.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\Pomelo.JsonObject.dll
