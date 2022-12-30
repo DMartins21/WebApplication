@@ -179,3 +179,4 @@ C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net47
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\MySqlConnector.dll
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\bin\Debug\net472\Pomelo.JsonObject.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Sellers\Index.cshtml.g.cs
