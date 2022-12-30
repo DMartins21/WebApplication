@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WebApplication.Data;
+using WebApplication.Services;
 
 namespace WebApplication
 {
@@ -36,6 +37,7 @@ namespace WebApplication
 builder.MigrationsAssembly("WebApplication")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
