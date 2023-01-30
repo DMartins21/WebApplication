@@ -184,3 +184,6 @@ C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net47
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Projeto\WebApplication\obj\Debug\net472\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
